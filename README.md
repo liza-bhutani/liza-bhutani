@@ -7,8 +7,7 @@
 
 ### ✨in love with  tech 
 ### ✨learning new technology
-### ✨exploring places.. 
-
+### ✨exploring different tech domains.. 
 
 ### 📈📊 Stats
 <a href="">
@@ -22,10 +21,15 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://in.linkedin.com/in/liza-bhutani)&nbsp; &nbsp;
  &nbsp; &nbsp;
-[![Twitter](https://img.shields.io/badge/Twitter-007B5?style=for-the-badge&logo=twitter&logoColor=blue)](https://www.twitter.com/liza_bhutani/)
+[![Twitter](https://img.shields.io/badge/Twitter-007B5?style=for-the-badge&logo=twitter&logoColor=blue)](https://www.twitter.com/liza_bhutani/)&nbsp; &nbsp;
+ &nbsp; &nbsp;
 
 ##  Language's and Tools I  use
-[![Java](https://img.shields.io/badge/java-ED8B00?style=for-the-badge&logo=java&logoColor=white)](https://github.com/dev-divyansh) &nbsp; &nbsp;
-[![ C  ](https://img.shields.io/badge/C-00008B?style=for-the-badge&logo=c&logoColor=white)](https://github.com/dev-divyansh) &nbsp; &nbsp;
+[![Java](https://img.shields.io/badge/java-ED8B00?style=for-the-badge&logo=java&logoColor=white)] (https://github.com/dev-liza)&nbsp; &nbsp;
+[![ C  ](https://img.shields.io/badge/C-00008B?style=for-the-badge&logo=c&logoColor=white)](https://github.com/dev-liza) &nbsp; &nbsp;
+[![ HTML ](https://img.shields.io/badge/HTML-FF0000?style=for-the-badge&logo=html&logoColor=white)](https://github.com/dev-liza) &nbsp; &nbsp;
+[![CSS ](https://img.shields.io/badge/CSS-0000FF?style=for-the-badge&logo=css&logoColor=white)](https://github.com/dev-liza) &nbsp; &nbsp;
+[![C++ ](https://img.shields.io/badge/C++-00FF00?style=for-the-badge&logo=c++&logoColor=white)](https://github.com/dev-liza) &nbsp; &nbsp;
+
 
 
