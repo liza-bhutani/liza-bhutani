@@ -7,7 +7,7 @@
 
 ### ✨in love with  tech 
 ### ✨learning new technology
-### ✨exploring different tech domains.. 
+
 
 ### 📈📊 Stats
 <a href="">
