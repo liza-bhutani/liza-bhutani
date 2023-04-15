@@ -27,9 +27,9 @@
 ##  Language's and Tools I  use
 [![ C  ](https://img.shields.io/badge/C-00008B?style=for-the-badge&logo=c&logoColor=white)](https://github.com/dev-liza) &nbsp; &nbsp;
   [![Java](https://img.shields.io/badge/Java-FFA500?style=for-the-badge&logo=java&logoColor=white)](https://github.com/dev-liza) &nbsp; &nbsp;
-[![ HTML ](https://img.shields.io/badge/HTML-FF0000?style=for-the-badge&logo=html&logoColor=white)](https://github.com/dev-liza) &nbsp; &nbsp;
+[![ HTML ](https://img.shields.io/badge/HTML-00FF00?style=for-the-badge&logo=html&logoColor=white)](https://github.com/dev-liza) &nbsp; &nbsp;
 [![CSS ](https://img.shields.io/badge/CSS-0000FF?style=for-the-badge&logo=css&logoColor=white)](https://github.com/dev-liza) &nbsp; &nbsp;
 [![C++ ](https://img.shields.io/badge/C++-00FF00?style=for-the-badge&logo=c++&logoColor=white)](https://github.com/dev-liza) &nbsp; &nbsp;
-[![Ruby ](https://img.shields.io/badge/Ruby-000080?style=for-the-badge&logo=c++&logoColor=white)](https://github.com/dev-liza) &nbsp; &nbsp;
+[![Ruby ](https://img.shields.io/badge/Ruby-FF0000?style=for-the-badge&logo=c++&logoColor=white)](https://github.com/dev-liza) &nbsp; &nbsp;
 
 
