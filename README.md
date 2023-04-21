@@ -7,8 +7,8 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Noto+Sans&size=30&duration=3000&pause=5&color=F7441A&width=435&lines=I+write+Code....;Animal+lover...;dreamer....)](https://git.io/typing-svg)
 
 
-### ✨in love with  tech 
-### ✨learning new technology
+### ✨in love with tech 
+### ✨exploring Web Development 
 
 
 ### 📈📊 Stats
@@ -24,9 +24,9 @@
 <a href="https://www.twitter.com/liza_bhutani" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="dev_pratap3250" height="30" width="40" /></a></p
 
 
-## Language's and Tools I  use
+## Tech stacks 
 [![ C  ](https://img.shields.io/badge/C-00008B?style=for-the-badge&logo=c&logoColor=white)](https://github.com/dev-liza) &nbsp; &nbsp;
-  [![Java](https://img.shields.io/badge/Java-FFA500?style=for-the-badge&logo=java&logoColor=white)](https://github.com/dev-liza) &nbsp; &nbsp;
+[![Java](https://img.shields.io/badge/Java-FFA500?style=for-the-badge&logo=java&logoColor=white)](https://github.com/dev-liza) &nbsp; &nbsp;
 [![ HTML ](https://img.shields.io/badge/HTML-00FF00?style=for-the-badge&logo=html&logoColor=white)](https://github.com/dev-liza) &nbsp; &nbsp;
 [![CSS ](https://img.shields.io/badge/CSS-0000FF?style=for-the-badge&logo=css&logoColor=white)](https://github.com/dev-liza) &nbsp; &nbsp;
 [![C++ ](https://img.shields.io/badge/C++-00FF00?style=for-the-badge&logo=c++&logoColor=white)](https://github.com/dev-liza) &nbsp; &nbsp;
