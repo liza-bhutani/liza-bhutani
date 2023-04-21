@@ -33,6 +33,6 @@
 [![CSS ](https://img.shields.io/badge/CSS-0000FF?style=for-the-badge&logo=css&logoColor=white)](https://github.com/dev-liza) &nbsp; &nbsp;
 [![C++ ](https://img.shields.io/badge/C++-00FF00?style=for-the-badge&logo=c++&logoColor=white)](https://github.com/dev-liza) &nbsp; &nbsp;
 [![Ruby ](https://img.shields.io/badge/Ruby-FF0000?style=for-the-badge&logo=c++&logoColor=white)](https://github.com/dev-liza) &nbsp; &nbsp;
-[!Postman] (https://img.shields.io/badge/postman-#FFA500?style=for-the-badge&logo=c++&logoColor=white)](https://github.com/dev-liza) &nbsp; &nbsp;
+
 
 
