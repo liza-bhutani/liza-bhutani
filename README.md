@@ -1,6 +1,6 @@
 
 
-<img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/115156321/233632480-c16dca55-ba27-464a-8ef3-4ee70d494d7a.jpg"
+
 # Hey there Liza here <br> <img height=100  src="https://github.com/samitkapoor/samitkapoor/blob/main/assets/images/wave-animation.gif"/> 
 
 
