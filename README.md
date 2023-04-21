@@ -10,7 +10,6 @@
 ### ✨exploring Web Development 
 ### ✨exploring Google Cloud
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Noto+Sans&size=30&duration=3000&pause=5&color=F7441A&width=435&lines=I+write+Code....;Animal+lover...;dreamer....)](https://git.io/typing-svg)
 
 <h2 align="left">Connect with Me:</h3>
 <p align="left">
