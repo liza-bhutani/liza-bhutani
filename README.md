@@ -2,12 +2,14 @@
 
 # Hi! I'm Liza. <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">
 
-<img align="right" alt="coding" width="400" src="https://media.tenor.com/S59bPkT0pqcAAAAC/programming.gif">
+<img align="right" alt="coding" width="400" src="https://media.tenor.com/S59bPkT0pqcAAAAC/programming.gif"><br>
 
 <!--[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Noto+Sans&size=30&duration=3000&pause=5&color=F7441A&width=435&lines=I+write+Code....;Animal+lover...;dreamer....)](https://git.io/typing-svg)
 <br> -->
 ### ✨in love with tech 
 ### ✨exploring Web Development 
+### ✨exploring Google Cloud
+
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Noto+Sans&size=30&duration=3000&pause=5&color=F7441A&width=435&lines=I+write+Code....;Animal+lover...;dreamer....)](https://git.io/typing-svg)
 
 <h2 align="left">Connect with Me:</h3>
