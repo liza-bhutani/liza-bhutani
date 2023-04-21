@@ -3,17 +3,17 @@
 # Hi! I'm Liza. <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">
 
 <img align="right" alt="coding" width="400" src="https://media.tenor.com/S59bPkT0pqcAAAAC/programming.gif">
-
+<br>
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Noto+Sans&size=30&duration=3000&pause=5&color=F7441A&width=435&lines=I+write+Code....;Animal+lover...;dreamer....)](https://git.io/typing-svg)
 ### ✨in love with tech 
 ### ✨exploring Web Development 
 
-
+<br>
 <h2 align="left">Connect with Me:</h3>
 <p align="left">
 <a href="https://in.linkedin.com/in/liza-bhutani" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Liza Bhutani" height="30" width="40" /> </a>
 <a href="https://www.twitter.com/liza_bhutani" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="liza_bhutani" height="30" width="40" /></a></p>
-
+<br>
   
   
 <h2 align="left">Languages and Tools:</h3>
