@@ -29,10 +29,14 @@
 
 <p >
   <a href="">
-   <img align="left" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=liza-bhutani&theme=radical" /> <img align="" src="https://github-readme-streak-stats.herokuapp.com?user=liza-bhutani&theme=tokyonight" /> <a /> 
-  
+   <img align="left" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=liza-bhutani&theme=radical" /> 
+    <img align="right" src="https://github-readme-streak-stats.herokuapp.com?user=liza-bhutani&theme=tokyonight" /> <a /> 
+  <br>
+    </p>
+  <p align ="right">
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=liza-bhutani&layout=compact&title_color=007bff&text_color=7C65A9&icon_color=007bff&bg_color=171c28)
 </p>
+
 <br>
 
 
