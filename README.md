@@ -28,7 +28,7 @@
 ### 📈📊 Stats
 <p >
   <img align="" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=liza-bhutani&theme=radical" />
-  <img align ="" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=liza-bhutani&layout=compact"/>
+  <img align ="" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=liza-bhutani&layout=compact&theme=radical"/>
 </p>
 
   </p>
