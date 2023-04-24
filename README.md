@@ -32,13 +32,7 @@
 </p>
 
   </p>
-  
-  <p align="center">
-<a href="">
-  <img align="centre" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=liza-bhutani&theme=radical" />
-<a />
-</p>
-    <br>
+ 
     
 
 
