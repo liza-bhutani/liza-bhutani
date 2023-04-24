@@ -30,9 +30,9 @@
 <a href="">
   <img align="left" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=liza-bhutani&theme=radical" />
  <a />
-   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=liza-bhutani&layout=compact&title_color=007bff&text_color=7C65A9&icon_color=007bff&bg_color=171c28)
-</p>
-
+<!--    ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=liza-bhutani&layout=compact&title_color=007bff&text_color=7C65A9&icon_color=007bff&bg_color=171c28)
+</p> -->
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=liza-bhutani&theme=dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
 <br>
   <p align="center">
 <a href="">
