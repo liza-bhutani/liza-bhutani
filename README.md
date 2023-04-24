@@ -26,14 +26,19 @@
   
   
 ### 📈📊 Stats
+<p>
 <a href="">
-  <img align="centre" src="https://github-readme-stats.vercel.app/api?username=dev-liza&count_private=true&include_all_commits=true&show_icons=true&title_color=007bff&text_color=7C65A9&icon_color=007bff&bg_color=171c28" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=liza-bhutani&count_private=true&include_all_commits=true&show_icons=true&title_color=007bff&text_color=7C65A9&icon_color=007bff&bg_color=171c28" />
 </a >
   
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dev-liza&layout=compact&title_color=007bff&text_color=7C65A9&icon_color=007bff&bg_color=171c28)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=liza-bhutani&layout=compact&title_color=007bff&text_color=7C65A9&icon_color=007bff&bg_color=171c28)
+</p>
 
+[![Liza's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=liza-bhutani&bg_color=000000&color=613583&line=613583&point=57e389&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-
+<p align="left">
+  <a href="">
+   <img align="" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=liza-bhutani&theme=radical" /> <img align="" src="https://github-readme-streak-stats.herokuapp.com?user=liza-bhutani&theme=tokyonight" /> <a /> </p>
 
   
 
