@@ -27,8 +27,11 @@
   
 ### 📈📊 Stats
 <p >
-  <img align="" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=liza-bhutani&theme=radical&hide_border=false" />
-  <img align ="" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=liza-bhutani&layout=compact&theme=radical"/>
+<!--   <img align="" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=liza-bhutani&theme=radical&hide_border=false" /> -->
+ <img align ="" src= " https://github-readme-stats.vercel.app/api?username=liza-bhutani&theme=dark&hide_border=false&include_all_commits=false&count_private=true"/>
+ <img align ="" src="https://github-readme-stats.vercel.app/api?username=liza-bhutani&theme=dark&hide_border=false&include_all_commits=false&count_private=true"/>
+<!-- 
+  <img align ="" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=liza-bhutani&layout=compact&theme=radical"/> -->
 </p>
 
   </p>
