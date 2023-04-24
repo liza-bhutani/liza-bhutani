@@ -14,8 +14,8 @@
 
 <h2 align="left">Connect with Me:</h3>
 <p align="left">
-<a href="https://in.linkedin.com/in/liza-bhutani" target="blank"><img align="center" src="https://user-images.githubusercontent.com/115156321/234100028-50b274cf-e2d1-447a-9620-4464719caafc.png" alt="Liza Bhutani" height="30" width="40" /> </a>
-  <a href="https://www.twitter.com/liza_bhutani" target="blank"><img align="center" src="https://user-images.githubusercontent.com/115156321/234099774-51184fad-fb43-435b-ae58-2709f329aa37.png" alt="liza_bhutani" height="30" width="40" /></a>
+<a href="https://twitter.com/liza_bhutani" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="liza_bhutani" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/liza-bhutani" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="liza-bhutani" height="30" width="40" /></a>
 <a href="https://liza786.hashnode.dev/" target="blank"><img align="center" src="https://user-images.githubusercontent.com/115156321/234099077-e7fcce37-bd98-4713-8544-d3d337509b82.png" alt="liza's blog" height="30" width="40" /></a></p>
 
 
