@@ -15,7 +15,9 @@
 <h2 align="left">Connect with Me:</h3>
 <p align="left">
 <a href="https://in.linkedin.com/in/liza-bhutani" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Liza Bhutani" height="30" width="40" /> </a>
-<a href="https://www.twitter.com/liza_bhutani" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="liza_bhutani" height="30" width="40" /></a></p>
+  <a href="https://www.twitter.com/liza_bhutani" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="liza_bhutani" height="30" width="40" /></a>
+<a href="https://liza786.hashnode.dev/" target="blank"><img align="center" src="https://user-images.githubusercontent.com/115156321/234099077-e7fcce37-bd98-4713-8544-d3d337509b82.png" alt="liza's blog" height="30" width="40" /></a></p>
+
 
   
   
@@ -40,7 +42,5 @@
 
 
 [![Liza's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=liza-bhutani&bg_color=000000&color=613583&line=613583&point=57e389&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-
 
 
