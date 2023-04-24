@@ -35,7 +35,7 @@
   
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=liza-bhutani&layout=compact&title_color=007bff&text_color=7C65A9&icon_color=007bff&bg_color=171c28)
-<p>
+</p>
 
 <br>
 
