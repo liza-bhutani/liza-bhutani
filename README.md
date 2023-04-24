@@ -26,14 +26,21 @@
   <br>
   
 ### 📈📊 Stats
-
-<p >
-  <a href="">
-   <img align="left" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=liza-bhutani&theme=radical" /> 
-    <img align="right" src="https://github-readme-streak-stats.herokuapp.com?user=liza-bhutani&theme=tokyonight" /> <a /> 
-  <br>
-  
-
+<p align="left">
+<a href="">
+  <img align="" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=dev-divyansh&theme=radical" />
+  <img align="" src="https://github-readme-streak-stats.herokuapp.com?user=dev-divyansh&theme=tokyonight" />
+<a />
+</p>
+  <p align="center">
+<a href="">
+  <img align="centre" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dev-divyansh&theme=radical" />
+<a />
+</p>
+    <br>
+    
+    <p align ="center">
+      
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=liza-bhutani&layout=compact&title_color=007bff&text_color=7C65A9&icon_color=007bff&bg_color=171c28)
 </p>
 
