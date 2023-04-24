@@ -26,12 +26,19 @@
   <br>
   
 ### 📈📊 Stats
-<p align="left">
+<p >
 <a href="">
-  <img align="" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=liza-bhutani&theme=radical" />
-  <img align="" src="https://github-readme-streak-stats.herokuapp.com?user=liza-bhutani&theme=tokyonight" />
+  <img align="left" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=liza-bhutani&theme=radical" />
+  <img align="right" src="https://github-readme-streak-stats.herokuapp.com?user=liza-bhutani&theme=tokyonight" />
 <a />
 </p>
+  <br>
+      <p align ="center">
+      
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=liza-bhutani&layout=compact&title_color=007bff&text_color=7C65A9&icon_color=007bff&bg_color=171c28)
+</p>
+
+<br>
   <p align="center">
 <a href="">
   <img align="centre" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=liza-bhutani&theme=radical" />
@@ -39,12 +46,7 @@
 </p>
     <br>
     
-<!--     <p align ="center">
-      
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=liza-bhutani&layout=compact&title_color=007bff&text_color=7C65A9&icon_color=007bff&bg_color=171c28)
-</p>
 
-<br> -->
 
 
 [![Liza's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=liza-bhutani&bg_color=000000&color=613583&line=613583&point=57e389&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
