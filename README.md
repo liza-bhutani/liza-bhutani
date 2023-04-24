@@ -28,13 +28,13 @@
 ### 📈📊 Stats
 <p align="left">
 <a href="">
-  <img align="" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=dev-divyansh&theme=radical" />
-  <img align="" src="https://github-readme-streak-stats.herokuapp.com?user=dev-divyansh&theme=tokyonight" />
+  <img align="" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=liza-bhutani&theme=radical" />
+  <img align="" src="https://github-readme-streak-stats.herokuapp.com?user=liza-bhutani&theme=tokyonight" />
 <a />
 </p>
   <p align="center">
 <a href="">
-  <img align="centre" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dev-divyansh&theme=radical" />
+  <img align="centre" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=liza-bhutani&theme=radical" />
 <a />
 </p>
     <br>
