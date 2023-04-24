@@ -39,12 +39,12 @@
 </p>
     <br>
     
-    <p align ="center">
+<!--     <p align ="center">
       
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=liza-bhutani&layout=compact&title_color=007bff&text_color=7C65A9&icon_color=007bff&bg_color=171c28)
 </p>
 
-<br>
+<br> -->
 
 
 [![Liza's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=liza-bhutani&bg_color=000000&color=613583&line=613583&point=57e389&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
