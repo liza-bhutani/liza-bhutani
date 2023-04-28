@@ -33,9 +33,9 @@
    <img align="" src="https://github-readme-streak-stats.herokuapp.com?user=liza-bhutani&theme=tokyonight" />
 </p>
 
-
-  <img align ="center" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=liza-bhutani&layout=compact&theme=radical"/>
-
+<p align ="center">
+  <img align ="" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=liza-bhutani&layout=compact&theme=radical"/>
+</p>
 
  
  
