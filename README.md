@@ -33,7 +33,7 @@
    <img align="" src="https://github-readme-streak-stats.herokuapp.com?user=liza-bhutani&theme=tokyonight" />
 </p>
 
-<p align ="center">
+<p>
   <img align ="" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=liza-bhutani&layout=compact&theme=radical"/>
 </p>
 
