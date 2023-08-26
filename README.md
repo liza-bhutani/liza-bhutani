@@ -15,9 +15,9 @@
 
 <h2 align="left">Connect with Me:</h3>
 <p align="left">
-<!-- <a href="https://twitter.com/liza_bhutani" target="blank"><img align="center" src=" #![twitter](https://github.com/liza-bhutani/liza-bhutani/assets/115156321/fe30cc05-47a3-4377-944a-8f4bd4ff809a)" alt="liza_bhutani" height="30" width="40" /></a>
+<a href="https://twitter.com/liza_bhutani" target="blank"><img align="center" src=" #![twitter](https://github.com/liza-bhutani/liza-bhutani/assets/115156321/fe30cc05-47a3-4377-944a-8f4bd4ff809a)" alt="liza_bhutani" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/liza-bhutani" target="blank"><img align="center" src=" #![twitter](https://github.com/liza-bhutani/liza-bhutani/assets/115156321/fe30cc05-47a3-4377-944a-8f4bd4ff809a)" alt="liza-bhutani" height="30" width="40" /></a>
-<a href="https://liza786.hashnode.dev/" target="blank"><img align="center" src="https://user-images.githubusercontent.com/115156321/234099077-e7fcce37-bd98-4713-8544-d3d337509b82.png" alt="liza's blog" height="30" width="40" /></a></p> -->
+<a href="https://liza786.hashnode.dev/" target="blank"><img align="center" src="https://user-images.githubusercontent.com/115156321/234099077-e7fcce37-bd98-4713-8544-d3d337509b82.png" alt="liza's blog" height="30" width="40" /></a></p>
 
 
  
@@ -38,8 +38,8 @@
   <img align ="" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=liza-bhutani&layout=compact&theme=radical"/>
 </p>
 
- 
+ <p align="left"> <img src="https://komarev.com/ghpvc/?username=liza&label=Profile%20views&color=blueviolet&style=flat" alt="LizaBhutani" /> </p>
  
     
-   [![Liza's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=liza-bhutani&bg_color=000000&color=613583&line=613583&point=57e389&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+ [![Liza's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=liza-bhutani&bg_color=000000&color=613583&line=613583&point=57e389&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph) 
 
