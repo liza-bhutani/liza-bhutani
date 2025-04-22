@@ -8,9 +8,9 @@
 <br> -->
 
 ### ✨in love with tech 
-### ✨exploring Cloud technologies
-### ✨enhancing myself in DSA
-### ✨exploring Machine Learning
+### ✨exploring machine learning 
+### ✨Building ETL pipelines
+### ✨Working with databases
 
 ## Connect with me  
 <div align="left">
