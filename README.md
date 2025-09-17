@@ -1,16 +1,11 @@
-
-
-<h1 align ="center" > Hi ! I'm Liza <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"></h1>
+<h1 align="center">Hi! I'm Liza <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"></h1>
 
 <img align="right" alt="coding" width="400" src="https://media.tenor.com/S59bPkT0pqcAAAAC/programming.gif"><br>
 
-<!--[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Noto+Sans&size=30&duration=3000&pause=5&color=F7441A&width=435&lines=I+write+Code....;Animal+lover...;dreamer....)](https://git.io/typing-svg)
-<br> -->
-
-### ✨in love with tech 
-### ✨exploring machine learning 
-### ✨Building ETL pipelines
-### ✨Working with databases
+### ✨ In love with tech 
+### ✨ Exploring machine learning 
+### ✨ Building ETL pipelines
+### ✨ Working with databases
 
 ## Connect with me  
 <div align="left">
@@ -25,32 +20,36 @@
 </a>  
 </div>  
 
-### Skills :
+### Skills & Tools:
 <div align="left">  
-<a href="https://getbootstrap.com/docs/3.4/javascript/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="50" /></a>  
-<a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" /></a>  
-<a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" /></a>  
-<a href="https://www.cprogramming.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/c-original.svg" alt="C" height="50" /></a>  
-<a href="https://www.cplusplus.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/cplusplus-original.svg" alt="C++" height="50" /></a>  
-<a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" /></a>  
 <a href="https://www.java.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/java-original-wordmark.svg" alt="Java" height="50" /></a>  
-<a href="https://www.ruby-lang.org/en/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/ruby-original-wordmark.svg" alt="Ruby" height="50" /></a>  
+<a href="https://www.python.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" /></a>  
+<a href="https://www.mysql.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="50" /></a>  
 <a href="https://cloud.google.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/google_cloud-icon.svg" alt="GCP" height="50" /></a>  
+<a href="https://www.oracle.com/cloud/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/oracle-original.svg" alt="OCI" height="50" /></a>  
+<a href="https://azure.microsoft.com/en-in/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/microsoft_azure-icon.svg" alt="Azure" height="50" /></a>  
+<a href="https://www.docker.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/docker-original-wordmark.svg" alt="Docker" height="50" /></a>  
+<a href="https://kubernetes.io/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/kubernetes-icon.svg" alt="Kubernetes" height="50" /></a>  
+<a href="https://www.apache.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/apache_hadoop-icon.svg" alt="Hadoop" height="50" /></a>  
+<a href="https://spark.apache.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/apache_spark-icon.svg" alt="Spark" height="50" /></a>  
+<a href="https://powerbi.microsoft.com/en-us/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/powerbi.png" alt="Power BI" height="50" /></a>  
+<a href="https://www.postman.com/" target="_blank"><img style="margin: 10px" src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" height="50" /></a>  
+<a href="https://www.notion.so/" target="_blank"><img style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/notion/notion-original.svg" alt="Notion" height="50" /></a>  
 </div>
 
-</td>
 <br>
   
-### 📈📊 Stats
-<p >
-  <img align="" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=liza-bhutani&theme=radical" />
-   <img align="" src="https://github-readme-streak-stats.herokuapp.com?user=liza-bhutani&theme=tokyonight" />
+### 📈📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=liza-bhutani&theme=tokyonight" alt="GitHub Streak Stats" />
 </p>
 
-<p>
-  <img align ="" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=liza-bhutani&layout=compact&theme=radical"/>
+<p align="center">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=liza-bhutani&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=liza-bhutani&layout=compact&theme=radical" alt="Top Languages" />
 </p>
 
- 
- 
-
+<div align="center">
+  <i>"Turning data into insights and code into solutions. Passionate about building efficient systems and exploring the endless possibilities of technology."</i>
+</div>
